@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578048296267.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "34BE7181",
+    "lastKnownWriteTime" : 1578051576,
+    "last_content_update" : 1578051675751,
+    "path" : "C:/Users/hp/Desktop/GST-Sentiment-Analysis/clean_data.R",
+    "project_path" : "clean_data.R",
+    "properties" : {
+        "cursorPosition" : "15,17",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

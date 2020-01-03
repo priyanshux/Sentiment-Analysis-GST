@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578046324243.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1391523759",
+    "id" : "70D68914",
+    "lastKnownWriteTime" : 1578051680,
+    "last_content_update" : 1578051680239,
+    "path" : "C:/Users/hp/Desktop/GST-Sentiment-Analysis/Auth.R",
+    "project_path" : "Auth.R",
+    "properties" : {
+        "cursorPosition" : "19,10",
+        "scrollLine" : "2"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

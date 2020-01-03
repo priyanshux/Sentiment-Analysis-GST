@@ -1,0 +1,20 @@
+# create_token(app="SentimentAnalysisx001",
+#              api_key="lJlRZRqb4CSMgfeC5WcSaCsBo",
+#              api_secret="kJ1P1T320JWvYsXUzp1wT8VbrAMytLLEpY0XMg1bA2VzBVL4G1",
+#              access_token="1030168029466972160-mvTuwu6R3vUHEmVe39WgqBZchl2l0k",
+#              access_token_secret="o26V3KmhiNDws0GBOkkdt3m7yUGigq3tOCaOHMlbkc9PX")
+
+library(devtools)
+library(twitteR)
+
+
+api_key <- "uPLeaTyxmrR5FwpUWf4d3GUG7"
+
+api_secret <- "loeVZowUat6eQTJmhspy7L5Lz5It0YIPpH60Dc6Z3uaVkLomSu"
+
+access_token <- "1030168029466972160-8KpxSXyIADB4TJQJ2qGc0OmYpVuvGu"
+
+access_token_secret <- "n9Wl9dcpI4rpFM7xINBsY9SOuUC7SkYXq18mWTz6oZxGU"
+
+setup_twitter_oauth(api_key, api_secret, access_token, access_token_secret)
+# searchTwitter("GST",n=150)

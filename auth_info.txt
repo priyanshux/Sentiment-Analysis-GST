@@ -1,0 +1,6 @@
+Consumer Key (API Key)	xxxxxxxxxxxxx
+Consumer Secret (API Secret)	xxxxxxxxxxxxxxxxxx
+
+
+Access Token	xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Access Token xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

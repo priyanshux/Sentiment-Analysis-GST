@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578048350291.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A045F089",
+    "lastKnownWriteTime" : 1578042407,
+    "last_content_update" : 1578049060786,
+    "path" : "C:/Users/hp/Desktop/GST-Sentiment-Analysis/func_on_tweet.R",
+    "project_path" : "func_on_tweet.R",
+    "properties" : {
+        "cursorPosition" : "30,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

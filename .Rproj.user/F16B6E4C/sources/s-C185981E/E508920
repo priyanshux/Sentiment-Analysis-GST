@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578048486249.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E508920",
+    "lastKnownWriteTime" : 1578042407,
+    "last_content_update" : 1578042407,
+    "path" : "C:/Users/hp/Desktop/GST-Sentiment-Analysis/wordcloud.R",
+    "project_path" : "wordcloud.R",
+    "properties" : {
+        "cursorPosition" : "18,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
